@@ -1,1 +1,3 @@
 Agregandole contenido a cam
+
+La cam es un input de video
